@@ -1,0 +1,33 @@
+column,dtype,non_null,missing,missing_pct,unique,top_value
+adr,float64,119390,0,0.0,8879,62.0
+adults,int64,119390,0,0.0,14,2
+agent,float64,103050,16340,13.69,333,9.0
+arrival_date_day_of_month,int64,119390,0,0.0,31,17
+arrival_date_month,object,119390,0,0.0,12,August
+arrival_date_week_number,int64,119390,0,0.0,53,33
+arrival_date_year,int64,119390,0,0.0,3,2016
+assigned_room_type,object,119390,0,0.0,12,A
+babies,int64,119390,0,0.0,5,0
+booking_changes,int64,119390,0,0.0,21,0
+children,float64,119386,4,0.0,5,0.0
+company,float64,6797,112593,94.31,352,40.0
+country,object,118902,488,0.41,177,PRT
+customer_type,object,119390,0,0.0,4,Transient
+days_in_waiting_list,int64,119390,0,0.0,128,0
+deposit_type,object,119390,0,0.0,3,No Deposit
+distribution_channel,object,119390,0,0.0,5,TA/TO
+hotel,object,119390,0,0.0,2,City Hotel
+is_canceled,int64,119390,0,0.0,2,0
+is_repeated_guest,int64,119390,0,0.0,2,0
+lead_time,int64,119390,0,0.0,479,0
+market_segment,object,119390,0,0.0,8,Online TA
+meal,object,119390,0,0.0,5,BB
+previous_bookings_not_canceled,int64,119390,0,0.0,73,0
+previous_cancellations,int64,119390,0,0.0,15,0
+required_car_parking_spaces,int64,119390,0,0.0,5,0
+reservation_status,object,119390,0,0.0,3,Check-Out
+reservation_status_date,object,119390,0,0.0,926,2015-10-21
+reserved_room_type,object,119390,0,0.0,10,A
+stays_in_week_nights,int64,119390,0,0.0,35,2
+stays_in_weekend_nights,int64,119390,0,0.0,17,0
+total_of_special_requests,int64,119390,0,0.0,6,0
