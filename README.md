@@ -1,5 +1,6 @@
 # gtc-ml-project1-hotel-bookings
 Hotel Bookings Data Preprocessing Project
+
 📌 Overview
 
 This project focuses on cleaning and preprocessing the Hotel Bookings dataset to prepare it for machine learning models that predict last-minute booking cancellations.
